@@ -31,7 +31,7 @@ I have submitted proposals for:
 
 **For more details:**
 
-- [My CV](#): Detailed but concise summary of my skills.
+- [My CV](./Abir_CV.pdf): Detailed but concise summary of my skills.
 - [My LinkedIn Profile](https://www.linkedin.com/in/abir0/): Learn more about my background & experience.
 - [My GitHub](https://github.com/abir0): Access my Machine Learning and other projects.
 - [My Google Scholar](https://scholar.google.com/citations?user=GF-XT6EAAAAJ&hl=en): Access my full publication list.

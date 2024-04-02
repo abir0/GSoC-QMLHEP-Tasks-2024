@@ -4,15 +4,16 @@ This repo contains solution of tasks for the projects of QMLHEP, as part of Goog
 
 I have completed the following tasks:
 1. [Task I: Quantum Computing Part](#)
-2. [Task II: Classical Graph Neural Network ](#)
+2. [Task II: Classical Graph Neural Network (GNN)](#)
 3. [Task III: Open Task](#)
-4. [Task V: Quantum Graph Neural Network](#)
-5. [Task VIII: Vision transformer/Quantum Vision Transformer](#)
+4. [Task V: Quantum Graph Neural Network (QGNN)](#)
+5. [Task VI: Quantum Representation Learning](#)
+6. [Task VIII: Vision Transformer/Quantum Vision Transformer](#)
     
 
 I have submitted proposals for:
-- [Quantum Transformer for High Energy Physics Analysis at the LHC]([#](https://ml4sci.org/gsoc/2024/proposal_QMLHEP5.html))
-- [Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC](#)
+- [Quantum Transformer for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2024/proposal_QMLHEP5.html)
+- [Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2024/proposal_QMLHEP2.html)
 
 
 ## About Me
@@ -27,10 +28,6 @@ I have submitted proposals for:
 * **Advanced Python** skills with experience in **Machine Learning** libraries and frameworks.
 * **Published research** in Q1 and Q2 peer-reviewed journals.
 * Strong technical communication and writing skills. 
-
-**For full publication list:** See Google Scholar and Scopus profiles.
-
-**GitHub:** Access my Machine Learning projects.
 
 **For more details:**
 

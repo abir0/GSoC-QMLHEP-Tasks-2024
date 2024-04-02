@@ -15,9 +15,8 @@ I have completed the following tasks:
 | [Task VIII: Vision Transformer](./Task_VIII_Vision_Transformer_Implementation.ipynb) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 
 
-I have submitted proposals for:
+I have submitted proposal for:
 - [Quantum Transformer for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2024/proposal_QMLHEP5.html)
-- [Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2024/proposal_QMLHEP2.html)
 
 
 ## About Me

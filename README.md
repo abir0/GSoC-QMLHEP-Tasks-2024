@@ -2,9 +2,10 @@
 
 This repo contains solution of tasks for the projects of QMLHEP, as part of Google Summer of Code (GSoC) 2024. 
 
+
 I have completed the following tasks:
 
-| Task                                               | Link                                                                                                                                                                                                          |
+| Task with Notebook Link                            | Colab Link                                                                                                                                                                                                    |
 |----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Task I: Quantum Computing Part](#)                | <a href="https://colab.research.google.com/drive/1YoCDgn-PKI_iG3l6wFJapv2S4OSdZIep?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 | [Task II: Classical Graph Neural Network (GNN)](#) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
@@ -13,10 +14,6 @@ I have completed the following tasks:
 | [Task VI: Quantum Representation Learning](#)      | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
 | [Task VIII: Vision Transformer](#)                 | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
 
-
-
-
-    
 
 I have submitted proposals for:
 - [Quantum Transformer for High Energy Physics Analysis at the LHC](https://ml4sci.org/gsoc/2024/proposal_QMLHEP5.html)
@@ -27,6 +24,7 @@ I have submitted proposals for:
 
 **AI Engineer** with a good foundation in **Quantum Computing** and **Materials Science**. 
 
+
 **Highlights:**
 
 * **3 months** experience as a Junior AI Engineer.
@@ -35,6 +33,7 @@ I have submitted proposals for:
 * **Advanced Python** skills with experience in **Machine Learning** libraries and frameworks.
 * **Published research** in Q1 and Q2 peer-reviewed journals.
 * Strong technical communication and writing skills. 
+
 
 **For more details:**
 

@@ -7,12 +7,12 @@ I have completed the following tasks:
 
 | Task with Notebook Link                            | Colab Link                                                                                                                                                                                                    |
 |----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Task I: Quantum Computing Part](#)                | <a href="https://colab.research.google.com/drive/1YoCDgn-PKI_iG3l6wFJapv2S4OSdZIep?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
-| [Task II: Classical Graph Neural Network (GNN)](#) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
-| [Task III: Open Task](#)                           | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
-| [Task V: Quantum Graph Neural Network (QGNN)](#)   | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
-| [Task VI: Quantum Representation Learning](#)      | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
-| [Task VIII: Vision Transformer](#)                 | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a>                                                                                     |
+| [Task I: Quantum Computing Part](./Task_I_Quantum_Computing_Part.ipynb) | <a href="https://colab.research.google.com/drive/1YoCDgn-PKI_iG3l6wFJapv2S4OSdZIep?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task II: Classical Graph Neural Network (GNN)](#) | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task III: Open Task](#) | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task V: Quantum Graph Neural Network (QGNN)](#) | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task VI: Quantum Representation Learning](#) | <a href="#" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task VIII: Vision Transformer](./Task_VIII_Vision_Transformer_Implementation.ipynb) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 
 
 I have submitted proposals for:

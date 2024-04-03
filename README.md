@@ -11,7 +11,7 @@ I have completed the following tasks:
 | [Task II: Classical Graph Neural Network (GNN)](./Task_II_GNN.ipynb) | <a href="https://colab.research.google.com/drive/1cEv54_CiE8o4XatFFU0DfianDlLM07r3?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 | [Task III: Open Task](./Task_III_Open_Task.ipynb) | <a href="https://colab.research.google.com/drive/10CvZOciv4qMDql5AUOFTbKll5OzL1rbR?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 | [Task VI: Quantum Representation Learning](./Task_VI_Quantum_Representation_Learning.ipynb) | <a href="https://colab.research.google.com/drive/1LtO3F-sA99v4jocRbv-qkPq_2qkfJW69?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
-| [Task VIII: Vision Transformer](./Task_VIII_Vision_Transformer_Implementation.ipynb) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
+| [Task VIII: Vision Transformer/Quantum Vision Transformer](./Task_VIII_Vision_Transformer_and_Quantum_ViT.ipynb) | <a href="https://colab.research.google.com/drive/1oQb44KcaxshnOT_6gvaqrAcieMPjeKVb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"/></a> |
 
 
 I have submitted proposal for:
